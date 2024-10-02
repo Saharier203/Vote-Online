@@ -17,7 +17,7 @@ input {
     padding: 10px;
     border-radius: 10px;
     width: 10%;
-    background-color: white;
+    background-color:#F9FAFB;
 }
 input{
     padding: 15px;
@@ -26,7 +26,7 @@ input{
 #loginButton{
     padding: 10px;
     border-radius: 10px;
-    background-color: aqua;
-    color:white;
+    background-color:  #3B82F6;
+    color:#F9FAFB;
     
 }
