@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    background-color:#F3F4F6 ;
-}
+    background-color: #1E1E2F; /* GPT dark background */
+    color: #FFFFFF;}
 #headerSection{
     padding: 10px;
 }
